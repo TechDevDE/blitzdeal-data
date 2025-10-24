@@ -1,18 +1,6 @@
 [
   {
     "id": "1",
-    "title": "💥 Neue Soundbar 60% reduziert",
-    "imageURL": "https://via.placeholder.com/300",
-    "price": 79.99,
-    "oldPrice": 199.99,
-    "currency": "EUR",
-    "percentOff": 60,
-    "category": "Audio",
-    "affiliateURL": "https://www.amazon.de/dp/EXAMPLE1?tag=deinaffiliate-21",
-    "timestamp": "2025-10-24T10:00:00Z"
-  },
-  {
-    "id": "2",
     "title": "🔥 Bluetooth-Kopfhörer 70% reduziert",
     "imageURL": "https://via.placeholder.com/300",
     "price": 29.99,
@@ -24,7 +12,7 @@
     "timestamp": "2025-10-24T09:00:00Z"
   },
   {
-    "id": "3",
+    "id": "2",
     "title": "💡 Smartwatch 40% reduziert",
     "imageURL": "https://via.placeholder.com/300",
     "price": 59.99,
@@ -36,8 +24,8 @@
     "timestamp": "2025-10-24T08:00:00Z"
   },
     {
-    "id": "4",
-    "title": "Test",
+    "id": "3",
+    "title": "IPhone 17 Pro",
     "imageURL": "https://m-cdn.phonearena.com/images/hub/508-wide-two_1200/iPhone-17-release-date-price-and-features.jpg",
     "price": 799,
     "oldPrice": 1129,
