@@ -22,5 +22,17 @@
     "category": "Elektronik",
     "affiliateURL": "https://www.amazon.de/dp/EXAMPLE3?tag=deinaffiliate-21",
     "timestamp": "2025-10-24T08:00:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Solarlampe nun im Angebot💡",
+    "imageURL": "https://m.media-amazon.com/images/I/814c1IP2bzL._AC_SL1500_.jpg",
+    "price": 46.99,
+    "oldPrice": 48.99,
+    "currency": "EUR",
+    "percentOff": 6,
+    "category": "Elektronik",
+    "affiliateURL": "https://www.amazon.de/KagoLing-Solarlampen-Böhmischen-LED-Glühbirne-Handgestrickte/dp/B0CC1L9J4K/ref=sr_1_7?adgrpid=73843346351&dib=eyJ2IjoiMSJ9.50z2mB-XhHGkWjvjaSJ1G2EKBO7a9DBEHaq0NfZjrZi9_Z2UDV1GuXkcDnUuZE4bJzLFI1kjoxlV6mVfUj5Kx4YkZDKN0hSs-NjMe9rUYq9D9t2lR9_QWjGhgz5N77Q9ulH1TkCNn1g85PwF9SnTcFJ40LMDwhjjw4sWYwJeSnu0kPHGjiB4J4H6fOx0xne6brBn_yiGz55B0TAdSfmSfOccEyWsYpf-RdmXZNXDY9wuz2QdYGBHvgrrXV5vYnCXJWuX_F1ilc48Y09_gAsBDD9-u8lnsWo3clRgzlhnLA8.vxkZ3FneHiUAHDKhP2CnLeqCqajBRpuoS4n_wrQG6-o&dib_tag=se&hvadid=676586912348&hvdev=c&hvexpln=0&hvlocphy=9116991&hvnetw=g&hvocijid=2081066124705568638--&hvqmt=e&hvrand=2081066124705568638&hvtargid=kwd-361860117819&hydadcr=28016_2371918&keywords=amazon+solarlampe&mcid=b2595bca0e4a343e82e216c9a09e7450&qid=1761315272&sr=8-7",
+    "timestamp": "2025-10-24T08:00:00Z"
   }
 ]
