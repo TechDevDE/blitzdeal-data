@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "💥 Neue Soundbar 60% reduziert",
+    "imageURL": "https://via.placeholder.com/300",
+    "price": 79.99,
+    "oldPrice": 199.99,
+    "currency": "EUR",
+    "percentOff": 60,
+    "category": "Audio",
+    "affiliateURL": "https://www.amazon.de/dp/EXAMPLE1?tag=deinaffiliate-21",
+    "timestamp": "2025-10-24T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "🔥 Bluetooth-Kopfhörer 70% reduziert",
+    "imageURL": "https://via.placeholder.com/300",
+    "price": 29.99,
+    "oldPrice": 99.99,
+    "currency": "EUR",
+    "percentOff": 70,
+    "category": "Elektronik",
+    "affiliateURL": "https://www.amazon.de/dp/EXAMPLE2?tag=deinaffiliate-21",
+    "timestamp": "2025-10-24T09:00:00Z"
+  },
+  {
+    "id": "3",
+    "title": "💡 Smartwatch 40% reduziert",
+    "imageURL": "https://via.placeholder.com/300",
+    "price": 59.99,
+    "oldPrice": 99.99,
+    "currency": "EUR",
+    "percentOff": 40,
+    "category": "Elektronik",
+    "affiliateURL": "https://www.amazon.de/dp/EXAMPLE3?tag=deinaffiliate-21",
+    "timestamp": "2025-10-24T08:00:00Z"
+  }
+]
