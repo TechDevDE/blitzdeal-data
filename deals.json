@@ -22,17 +22,5 @@
     "category": "Elektronik",
     "affiliateURL": "https://www.amazon.de/dp/EXAMPLE3?tag=deinaffiliate-21",
     "timestamp": "2025-10-24T08:00:00Z"
-  },
-    {
-    "id": "3",
-    "title": "IPhone 17 Pro",
-    "imageURL": "https://m-cdn.phonearena.com/images/hub/508-wide-two_1200/iPhone-17-release-date-price-and-features.jpg",
-    "price": 799,
-    "oldPrice": 1129,
-    "currency": "EUR",
-    "percentOff": 40,
-    "category": "Elektronik",
-    "affiliateURL": "https://www.amazon.de/dp/EXAMPLE3?tag=deinaffiliate-21",
-    "timestamp": "2025-10-24T08:00:00Z"
   }
 ]
